@@ -21,4 +21,4 @@ ___
 
 Thank you for reading! Please contact us on our [Archipelago Commons Google Group](https://groups.google.com/forum/#!forum/archipelago-commons) with any questions or feedback.
 
-Return to the [Archipelago Documentation main page](index.md).
+Return to the [Archipelago Documentation main page](intro.md).
