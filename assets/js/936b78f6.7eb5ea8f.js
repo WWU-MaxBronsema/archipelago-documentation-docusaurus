@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkarchipelago_documentation_docsaurus=self.webpackChunkarchipelago_documentation_docsaurus||[]).push([[8890],{8598:o=>{o.exports=JSON.parse('{"permalink":"/archipelago-documentation-docsaurus/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

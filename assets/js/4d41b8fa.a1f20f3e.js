@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarchipelago_documentation_docsaurus=self.webpackChunkarchipelago_documentation_docsaurus||[]).push([[7761],{21:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/archipelago-documentation-docusaurus/blog/tags/docusaurus","allTagsPath":"/archipelago-documentation-docusaurus/blog/tags","count":4}')}}]);
