@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'WWU-MaxBronsema', // Usually your GitHub org/user name.
-  projectName: 'archipelago-documentation-docsaurus', // Usually your repo name.
+  projectName: 'archipelago-documentation-docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
