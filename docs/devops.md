@@ -4,7 +4,7 @@
 
 At the core of the Archipelago philosophy is our commitment to both simplicity and flexibility.
 
-### Under the hood, Archipelago's architecture is:
+### Under the hood, Archipelago's architecture is comprised of:
 
 - [Drupal (CMS)](https://www.drupal.org/)
 - [Solr (Search)](https://lucene.apache.org/solr/)
